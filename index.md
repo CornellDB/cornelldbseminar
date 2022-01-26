@@ -5,7 +5,6 @@ The Cornell Database Seminar covers recent research in the database area. The se
 # Schedule Overview
 
 |Speaker|Institution|Talk Title|
-
 | ----- | ---------- | ------- |
 
 # Talk Details
