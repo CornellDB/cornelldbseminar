@@ -4,17 +4,17 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 # Schedule Overview
 
-|Date|Speaker|Institution|Talk Title|
-|---|----- | ---------- | ------- |
-|2/7|Manos Athanassoulis|Boston University| |
-|2/14|Rolando Garcia|UC Berkeley| |
-|2/21| | | |
-|2/28| (Break) | | |
-|3/7|Carsten Binnig|TU Darmstadt| |
-|3/14|Ibrahim Sabek|MIT| |
-|3/21|Volker Markl|TU Berlin| |
-|3/28|Davide Mottin|Aarhus University| |
-|4/4|(Break)| | |
-|4/11|Laurel Orr|Stanford University| |
+|Date|Speaker|Talk Title|
+|---|----- | ------- |
+|2/7|Manos Athanassoulis, _Boston University_ |
+|2/14|Rolando Garcia, _UC Berkeley_ |
+|2/21| | |
+|2/28| (Break) | |
+|3/7|Carsten Binnig, _TU Darmstadt_ | |
+|3/14|Ibrahim Sabek, _MIT_ | |
+|3/21|Volker Markl, _TU Berlin_ | |
+|3/28|Davide Mottin, _Aarhus University_ | |
+|4/4|(Break)| |
+|4/11|Laurel Orr, _Stanford University_ | |
 
 # Talk Details
