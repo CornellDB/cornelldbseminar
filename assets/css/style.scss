@@ -13,4 +13,7 @@
 
 th {
    background: #A52A2A
-}  
+}
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
