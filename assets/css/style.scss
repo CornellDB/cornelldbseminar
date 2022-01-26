@@ -12,8 +12,13 @@
 }
 
 th {
-   background: #A52A2A
+   background: #A52A2A;
+   border: 1px solid #BC6060;
 }
 
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
+
+table {
+  width: 100%;
+}
