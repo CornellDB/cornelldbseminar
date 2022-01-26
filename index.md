@@ -12,7 +12,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | |
 |3/14|Ibrahim Sabek, _MIT_ | |
-|3/21|Volker Markl, _TU Berlin_ | |
+|3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision|
 |3/28|Davide Mottin, _Aarhus University_ | |
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
