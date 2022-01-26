@@ -14,6 +14,9 @@
 th {
    background: #A52A2A;
 }
+td {
+  border: 0px
+}
 
 tr:nth-child(even) {background: #CCC}
 tr:nth-child(odd) {background: #FFF}
