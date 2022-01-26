@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+#header_wrap {
+  background: #BC6060;
+  background: -moz-linear-gradient(top, #A52A2A, #BC6060);
+  background: -webkit-linear-gradient(top, #A52A2A, #BC6060);
+  background: -ms-linear-gradient(top, #A52A2A, #BC6060);
+  background: -o-linear-gradient(top, #A52A2A, #BC6060);
+  background: linear-gradient(to top, #A52A2A, #BC6060);
+}
