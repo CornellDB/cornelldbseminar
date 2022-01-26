@@ -1,4 +1,4 @@
 theme: jekyll-theme-slate
 title: Cornell Database Seminar
 show_downloads: false
-site.github.is_project_page: false
+is_project_page: false
