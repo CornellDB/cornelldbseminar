@@ -10,7 +10,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |2/14|Rolando Garcia, _UC Berkeley_ |
 |2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
-|3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning [Details](#talk-by-carsten-binnig)|
+|3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\]|
 |3/14|Ibrahim Sabek, _MIT_ | |
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision [Details](#talk-by-volker-markl)|
 |3/28|Davide Mottin, _Aarhus University_ | |
