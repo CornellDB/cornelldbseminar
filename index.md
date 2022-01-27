@@ -2,7 +2,7 @@
 
 The Cornell Database Seminar covers recent research in the database area. The seminar meets weekly from 1 to 2 PM EST. All talks by external speakers are **public** and can be attended via Zoom (the link will be posted here). The seminar is organized by the [Cornell Database Group](https://itrummer.github.io/dbgrouphp/).
 
-# Schedule Overview
+# Schedule
 
 |Date|Speaker|Talk Title|
 |---|----- | ------- |
@@ -10,7 +10,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |2/14|Rolando Garcia, _UC Berkeley_ |
 |2/21| | |
 |2/28| (Break) | |
-|3/7|Carsten Binnig, _TU Darmstadt_ | |
+|3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning|
 |3/14|Ibrahim Sabek, _MIT_ | |
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision|
 |3/28|Davide Mottin, _Aarhus University_ | |
