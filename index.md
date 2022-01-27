@@ -16,6 +16,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/28|Davide Mottin, _Aarhus University_ | |
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
+|4/18|Angelos Christos Anadiotis, _INRIA_| |
 
 # Talk Details
 
