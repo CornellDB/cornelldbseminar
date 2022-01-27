@@ -19,4 +19,4 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 # Talk Details
 
-## Talk on 2/7 {2_7}
+## Talk on 2/7 {#2_7}
