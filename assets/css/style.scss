@@ -1,1 +1,14 @@
+---
+---
 
+@import "{{ site.theme }}";
+td {
+  border: 0px
+}
+
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+
+table {
+  width: 100%;
+}
