@@ -1,6 +1,6 @@
 # About
 
-The Cornell Database Seminar covers recent research in the database area. The seminar meets weekly from 1 to 2 PM EST. All talks by external speakers are **public** and can be attended via Zoom (the link will be posted here). The seminar is organized by the [Cornell Database Group](https://itrummer.github.io/dbgrouphp/).
+The Cornell Database Seminar covers recent research in the database area. The seminar meets weekly from 1 to 2 PM EST. All talks by external speakers are **public** and can be attended via Zoom (link [https://cornell.zoom.us/j/94791289427?pwd=c2grd2dvc2xnWHpuLzMvemNub3BPZz09](here)). Talk recordings, without Q&A, will be available online ([https://www.youtube.com/playlist?list=PLXPbT_PYOiRiTnsNRm0ojyXIbPVVe1iqi](here)). The seminar is organized by the [Cornell Database Group](https://itrummer.github.io/dbgrouphp/).
 
 # Schedule
 
