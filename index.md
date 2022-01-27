@@ -6,7 +6,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 |Date|Speaker|Talk Title|
 |---|----- | ------- |
-|2/7|Manos Athanassoulis, _Boston University_ [Details](#2/7)|
+|2/7|Manos Athanassoulis, _Boston University_ [Details](#2_7)|
 |2/14|Rolando Garcia, _UC Berkeley_ |
 |2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
@@ -19,4 +19,4 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 # Talk Details
 
-## 2/7
+## Talk on 2/7 {2_7}
