@@ -8,7 +8,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |---|----- | ------- |
 |2/7|Manos Athanassoulis, _Boston University_ |
 |2/14|Rolando Garcia, _UC Berkeley_ |
-|2/21| | |
+|2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning|
 |3/14|Ibrahim Sabek, _MIT_ | |
