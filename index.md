@@ -6,7 +6,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 |Date|Speaker|Talk|
 |---|----- | ------- |
-|2/7|Manos Athanassoulis, _Boston University_ |
+|2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] |
 |2/14|Rolando Garcia, _UC Berkeley_ |
 |2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
@@ -21,6 +21,14 @@ The Cornell Database Seminar covers recent research in the database area. The se
 # Talk Details
 
 ## Talk by Manos Athanassoulis
+
+### Abstract
+
+Log-structured merge (LSM) trees are becoming the de facto standard for write-intensive storage layers for both production NoSQL data stores and relational systems. As LSM-based systems are used by various applications and deployed in shared infrastructure (e.g., public or private cloud), they are tasked to support a number of requirements varying from performance, to cost, and privacy, being robust to external requirements and the inherent workload unpredictability. At the heart of any LSM-based engine, we have the background re-organization mechanism (or compaction), the behavior of which affects essentially every aspect of the LSM-tree including write amplification, write throughput, point and range lookup performance, space amplification, and delete performance. In this presentation, we will first introduce in detail the design space of LSM compactions and discuss their tradeoffs, we will then take a deep dive on a new family of delete-aware compactions. We will define as a design goal the delete persistence latency, and discuss how to bound it. Finally, we will discuss the importance of tuning in the presence of uncertainty and present a sneak-peek of a new methodology for near-optimal LSM tuning in the presence of uncertainty of the expected workload vs. the observed one.
+
+### Bio
+
+Manos Athanassoulis is an Assistant Professor of Computer Science at Boston University, Director and Founder of the BU Data-intensive Systems and Computing Laboratory and co-director of the BU Massive Data Algorithms and Systems Group. His research is in the area of data management focusing on building data systems that efficiently exploit modern hardware (computing units, storage, and memories), are deployed in the cloud, and can adapt to the workload both at setup time and, dynamically, at runtime. Before joining Boston University, Manos was a postdoc at Harvard University, earlier he obtained his PhD from EPFL, Switzerland, and spent one summer at IBM Research, Watson. Manos’ work has been recognized by awards like “Best of SIGMOD” in 2016, “Best of VLDB” in 2010 and 2017, and “Most Reproducible Paper” at SIGMOD in 2017, and has been supported by NSF and industry funds including a Facebook Faculty Research Award and gifts from Cisco and Red Hat.
 
 ## Talk by Rolando Garcia
 
