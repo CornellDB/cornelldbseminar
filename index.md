@@ -13,7 +13,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\]|
 |3/14|Ibrahim Sabek, _MIT_ | |
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\]|
-|3/28|Davide Mottin, _Aarhus University_ | |
+|3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\]|
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
 |4/18|Angelos Christos Anadiotis, _INRIA_| |
@@ -61,5 +61,15 @@ Volker Markl is a German Professor of Computer Science. He leads the Chair of Da
 
 
 ## Talk by Davide Mottin
+
+### Abstract
+
+Is it possible to assess whether the information in a database is true? This task is an important tile in the current misinformation era. Towards this goal, the talk introduces the task of Knowledge validation taking knowledge graph, one of the data models that are used for fact-checking. Knowledge graphs are graphs of entities (e.g., US, Joe Biden) connected through relationships (e.g., isPresidentOf). A typical approach to ensure data quality in the presence of continuous changes is to apply logic rules. These rules are automatically mined from the data using frequency-based approaches. As a result, these approaches depend on the data quality of the KG and are susceptible to errors and incompleteness. This talk shows a different approach we recently devised in which the domain expert is a first-class citizen in the validation process. To ensure a smooth and easy validation we devised a method that selects triples to validate in the quest for cleaner data. 
+
+### Bio
+
+Davide Mottin is an Assistant Professor at Aarhus University with expertise in graph mining, exploratory methods, and knowledge graphs.
+Before joining Aarhus University he was a postdoctoral researcher at Hasso Plattner Institute, leading the graph mining subgroup in the Knowledge Discovery and Data Mining group. He has pioneered methods for Exploratory Analysis on knowledge graphs, graph embedding methods, and user-in-the-loop techniques for data management. 
+He received his PhD in 2015 from the University of Trento. He was also visiting Yahoo! Labs in Barcelona, and Microsoft Research Asia in Beijing.
 
 ## Talk by Laurel Orr
