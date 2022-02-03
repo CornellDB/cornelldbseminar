@@ -16,7 +16,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\]|
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
-|4/18|Angelos Christos Anadiotis, _INRIA_| |
+|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| |
 |4/25|Eugene Wu, _Columbia University_| |
 |5/2|TBD||
 |5/9|Joe Hellerstein, _UC Berkeley_| |
