@@ -18,7 +18,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |4/11|Laurel Orr, _Stanford University_ | |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| |
 |4/25|Eugene Wu, _Columbia University_| |
-|5/2|TBD||
+|5/2|Roger Waleffe, _University of Wisconsin-Madison_| |
 |5/9|Joe Hellerstein, _UC Berkeley_| |
 
 # Talk Details
