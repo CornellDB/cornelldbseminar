@@ -6,7 +6,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 |Date|Speaker|Talk|
 |---|----- | ------- |
-|2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] |
+|2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] \[[Video](https://t.co/ywgitHApbY)\]|
 |2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training |
 |2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
