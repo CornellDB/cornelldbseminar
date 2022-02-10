@@ -7,7 +7,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |Date|Speaker|Talk|
 |---|----- | ------- |
 |2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] \[[Video](https://t.co/ywgitHApbY)\]|
-|2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training |
+|2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training \[[Details](#talk-by-rolando-garcia-sanchez)\]|
 |2/21| Immanuel Trummer, _Cornell University_| |
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\]|
@@ -33,7 +33,15 @@ Log-structured merge (LSM) trees are becoming the de facto standard for write-in
 
 Manos Athanassoulis is an Assistant Professor of Computer Science at Boston University, Director and Founder of the BU Data-intensive Systems and Computing Laboratory and co-director of the BU Massive Data Algorithms and Systems Group. His research is in the area of data management focusing on building data systems that efficiently exploit modern hardware (computing units, storage, and memories), are deployed in the cloud, and can adapt to the workload both at setup time and, dynamically, at runtime. Before joining Boston University, Manos was a postdoc at Harvard University, earlier he obtained his PhD from EPFL, Switzerland, and spent one summer at IBM Research, Watson. Manos’ work has been recognized by awards like “Best of SIGMOD” in 2016, “Best of VLDB” in 2010 and 2017, and “Most Reproducible Paper” at SIGMOD in 2017, and has been supported by NSF and industry funds including a Facebook Faculty Research Award and gifts from Cisco and Red Hat.
 
-## Talk by Rolando Garcia
+## Talk by Rolando Garcia Sanchez
+
+### Abstract
+
+There’s lots to log in model training: time series of metrics, tensor histograms, embeddings, activations, and more. Surprisingly though, most of the time, model developers only log parameters (e.g. batch size and learning rate) and time series metrics (e.g. loss and accuracy). What do they do when they need more data than the little bit they logged? They add more logging statements, and they re-run training. We call this practice “Hindsight Logging” because of its retrospective quality. In this talk, I will discuss efficient hindsight logging using Fast Low-Overhead Recovery (FLOR), a record-replay system first presented at VLDB ’21. During my talk, I will give a demo of FLOR using VSCode and a Jupyter Notebook, and show how I can use it, together with integrated query support, to understand what alternatives my colleague has tried to fit an NLP model for a Kaggle competition.
+
+### Bio
+
+Rolando is a PhD candidate at UC Berkeley advised by Joe Hellerstein. He studies and builds systems to manage the training context and vast metadata of machine learning. Rolando received his B.S. in computer science from Arizona State University, and he is a recipient of the NSF graduate research fellowship, and UC Berkeley’s Chancellor’s fellowship. 
 
 ## Talk by Immanuel Trummer
 
