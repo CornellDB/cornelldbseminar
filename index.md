@@ -8,7 +8,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |---|----- | ------- |
 |2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] \[[Video](https://t.co/ywgitHApbY)\]|
 |2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training \[[Details](#talk-by-rolando-garcia-sanchez)\]|
-|2/21| Immanuel Trummer, _Cornell University_| |
+|2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\]|
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\]|
 |3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems |
@@ -44,6 +44,15 @@ There’s lots to log in model training: time series of metrics, tensor histogra
 Rolando is a PhD candidate at UC Berkeley advised by Joe Hellerstein. He studies and builds systems to manage the training context and vast metadata of machine learning. Rolando received his B.S. in computer science from Arizona State University, and he is a recipient of the NSF graduate research fellowship, and UC Berkeley’s Chancellor’s fellowship. 
 
 ## Talk by Immanuel Trummer
+
+### Abstract
+
+The Internet offers a plethora of database tuning hints, formulated in natural language and published in manuals, blog entries, or discussion forums. Traditionally, such text is used to educate human database administrators exclusively. However, recent advances in natural language processing (NLP) enable automated tuning tools to benefit from such hints as well. 
+In this talk, I discuss DB-BERT, a system that combines information gained from text analysis with information gained via trial runs. DB-BERT is guided by a reinforcement learning algorithm and uses pre-trained language models to analyse text. I present first experimental results for DB-BERT and discuss avenues for extensions. Finally, I discuss novel applications of NLP in the context of database tuning more broadly.
+
+### Bio
+
+Immanuel Trummer is assistant professor at Cornell University, working towards making data analysis more efficient and more user-friendly. His papers were selected for “Best of VLDB”, “Best of SIGMOD”, for the ACM SIGMOD Research Highlight Award, and for publication in CACM as CACM Research Highlight. His current research is funded by the NSF and by multiple Google Faculty Research Awards. 
 
 ## Talk by Carsten Binnig
 
