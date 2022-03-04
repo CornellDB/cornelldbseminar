@@ -7,8 +7,8 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |Date|Speaker|Talk|
 |---|----- | ------- |
 |2/7|Manos Athanassoulis, _Boston University_ | (A Prelude to) Building Robust LSM-based Key-Value Stores \[[Details](#talk-by-manos-athanassoulis)\] \[[Video](https://t.co/ywgitHApbY)\]|
-|2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training \[[Details](#talk-by-rolando-garcia-sanchez)\]|
-|2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\]|
+|2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training \[[Details](#talk-by-rolando-garcia-sanchez)\] \[[Video](https://youtu.be/gAhqAHnJme0)\]|
+|2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\] \[[Video](https://youtu.be/rICyXhjyqp8)\]|
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\]|
 |3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems |
