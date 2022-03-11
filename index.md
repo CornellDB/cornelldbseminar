@@ -11,7 +11,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\] \[[Video](https://youtu.be/rICyXhjyqp8)\]|
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\] \[[Video](https://youtu.be/7Ws_Ms4wVcc)\]|
-|3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems |
+|3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems \[[Details](#talk-by-ibrahim-sabek)\] |
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\]|
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\]|
 |4/4|(Break)| |
@@ -63,6 +63,14 @@ Database management systems (DBMSs) are the backbone for managing large volumes 
 Hence, in this talk we present our vision to tackle the high costs and inflexibility of workload-driven learning called Learned DBMS Components 2.0. First, we introduce data-driven learning where the idea is to learn the data distribution over a complex relational schema. In contrast to workload-driven learning, no large workload has to be executed on the database to gather training data. While data-driven learning has many applications such as cardinality estimation or approximate query processing, many DBMS tasks such as physical cost estimation cannot be supported. We thus propose a second technique called zero-shot learning which is a general paradigm for learned DBMS components. Here, the idea is to train models that generalize to unseen data sets out-of-the-box. The idea is to train a model that has observed a variety of workloads on different data sets and can thus generalize. Initial results on the task of physical cost estimation suggest the feasibility of this approach. Finally, we discuss further opportunities which are enabled by zero-shot learning.
 
 ## Talk by Ibrahim Sabek
+
+### Abstract
+
+Query scheduling is a crucial task for analytical database systems that can greatly affect query latency. However, existing scheduling approaches are either based on heuristics or not able to learn a scheduling policy that considers the database-specific characteristics (e.g., operator types, pipelining). As a result, such approaches become not efficient for analytical database systems. In this talk, we introduce LSched: a fully learned workload-aware query scheduler for in-memory analytical database systems. LSched provides an efficient inter-query and intra-query scheduling for dynamic analytical workloads (i.e., different queries can arrive/depart at any time). We integrated LSched with an efficient in-memory analytical database system, and evaluated it with TPCH, SSB, and JOB benchmarks. Our evaluation shows the efficiency of LSched in both streaming and batching query workloads.
+
+### Bio
+
+Ibrahim Sabek is a postdoctoral associate at MIT CSAIL, and a member of the MIT Data Systems Group working with Tim Kraska and Michael Cafarella. He completed his PhD in computer science from University of Minnesota, Twin Cities in 2020. Recently, he has been named a Computing Innovation Fellow (CIFellow) by the Computing Research Association (CRA) and the National Science Foundation (NSF). He also received the University-wide Best Dissertation Honorable Mention in 2021 for his PhD work. He is interested in exploring machine learning for data systems, with a special focus on query execution and scheduling. For more information, please check this website: http://people.csail.mit.edu/ibrahimsabek/.
 
 ## Talk by Volker Markl
 
