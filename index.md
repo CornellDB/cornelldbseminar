@@ -11,8 +11,8 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\] \[[Video](https://youtu.be/rICyXhjyqp8)\]|
 |2/28| (Break) | |
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\] \[[Video](https://youtu.be/7Ws_Ms4wVcc)\]|
-|3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems \[[Details](#talk-by-ibrahim-sabek)\] |
-|3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\]|
+|3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems \[[Details](#talk-by-ibrahim-sabek)\] \[[Video](https://youtu.be/uiMdErKz_rk)\]|
+|3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\] \[[Video](https://youtu.be/Y0qq1Di-Qvc)\]|
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\]|
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
