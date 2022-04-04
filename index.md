@@ -13,7 +13,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\] \[[Video](https://youtu.be/7Ws_Ms4wVcc)\]|
 |3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems \[[Details](#talk-by-ibrahim-sabek)\] \[[Video](https://youtu.be/uiMdErKz_rk)\]|
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\] \[[Video](https://youtu.be/Y0qq1Di-Qvc)\]|
-|3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\]|
+|3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\] \[[Video](https://youtu.be/l1O9EFmAXaM)\]|
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| |
