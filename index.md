@@ -15,7 +15,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\] \[[Video](https://youtu.be/Y0qq1Di-Qvc)\]|
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\] \[[Video](https://youtu.be/l1O9EFmAXaM)\]|
 |4/4|(Break)| |
-|4/11|Laurel Orr, _Stanford University_ | |
+|4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| |
 |4/25|Eugene Wu, _Columbia University_| |
 |5/2|Roger Waleffe, _University of Wisconsin-Madison_| |
@@ -98,3 +98,15 @@ Before joining Aarhus University he was a postdoctoral researcher at Hasso Platt
 He received his PhD in 2015 from the University of Trento. He was also visiting Yahoo! Labs in Barcelona, and Microsoft Research Asia in Beijing.
 
 ## Talk by Laurel Orr
+
+### Abstract
+
+There is a paradigm shift in machine learning pipelines where hand-turned downstream model pipelines are being replace by “foundation model ecosystems”. Foundation models are large, commoditized architectures trained on massive corpora without any manual labels or features. Once pretrained, foundation models can be adapted to numerous downstream systems, resulting in higher quality downstream systems that are easier to maintain. One critical application of foundation models is their use in pretraining embeddings for entities in a knowledge base that are then integrated into systems such as QA, recommendation, and data integration. As entities are continuously being updated and added to a knowledge base, an outstanding challenge is how to update the entity embeddings to encode any new updates without having to pay the high cost of retraining the model from scratch.
+
+This talk will have two parts. In the first, I will introduce foundation model ecosystems and why they are fundamentally changing the way in which engineers build and train models. In the second part, I will dive into the challenge of how to maintain and update entity embeddings in these foundation model ecosystems.
+
+### Bio
+
+Laurel Orr is currently a PostDoc at Stanford working with Chris Ré in the Hazy Research Lab. In August of 2019, she graduated with a PhD from Paul G Allen School for Computer Science and Engineering at the University of Washington in Seattle. She was part of the Database Group and advised by Dan Suciu and Magdalena Balazinska. She was a 2020 winner of the IC Postdoc Research Fellowship Program and one of the 2015 winners of the NSG GRFP in Compute Science.
+
+Her research interests are broadly at the intersection of machine learning and data management. She focuses on how to manage the end-to-end lifecycle of self-supervised embedding pipelines. This includes problems of how to better train, maintain, monitor, and patch the embedding models and their use downstream.
