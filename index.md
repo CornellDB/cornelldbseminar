@@ -15,8 +15,8 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\] \[[Video](https://youtu.be/Y0qq1Di-Qvc)\]|
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\] \[[Video](https://youtu.be/l1O9EFmAXaM)\]|
 |4/4|(Break)| |
-|4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] |
-|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| |
+|4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
+|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data | \[[Details](#talk-by-angelos-christos-anadiotis)\]|
 |4/25|Eugene Wu, _Columbia University_| |
 |5/2|Roger Waleffe, _University of Wisconsin-Madison_| |
 |5/9|Joe Hellerstein, _UC Berkeley_| |
@@ -110,3 +110,13 @@ This talk will have two parts. In the first, I will introduce foundation model e
 Laurel Orr is currently a PostDoc at Stanford working with Chris Ré in the Hazy Research Lab. In August of 2019, she graduated with a PhD from Paul G Allen School for Computer Science and Engineering at the University of Washington in Seattle. She was part of the Database Group and advised by Dan Suciu and Magdalena Balazinska. She was a 2020 winner of the IC Postdoc Research Fellowship Program and one of the 2015 winners of the NSG GRFP in Compute Science.
 
 Her research interests are broadly at the intersection of machine learning and data management. She focuses on how to manage the end-to-end lifecycle of self-supervised embedding pipelines. This includes problems of how to better train, maintain, monitor, and patch the embedding models and their use downstream.
+
+## Talk by Angelos-Christos Anadiotis
+
+### Abstract
+
+According to the French transparency law, a conflict of interest is any situation where a public interest may interfere with a public or private interest, in such a way that the public interest may be, or appear to be, unduly influenced. Discovering conflicts of interest is a tedious task, as it requires the exploration of several data sources, including both structured and unstructured data, in order to discover connections among entities that could be problematic. Investigative journalism has been actively involved in the pursue of conflicts of interest, and the investigation may take years in order to sort out all the data sources needed and then process the data that they include. This talk addresses the problem of finding connections among entities that belong to heterogeneous data sources, in a scalable manner. It describes an end-to-end pipeline which integrates the heterogeneous data in a graph and then discovers connections among nodes in the graph that correspond to a given set of keywords. The work has been carried out in collaboration with several researchers, most notably: Ioana Manolescu, Oana Balalau, Helena Galhardas, and many others. More details on the project can be found here: https://sourcessay.inria.fr.
+
+### Bio
+
+Angelos Christos Anadiotis is Assistant Professor of Computer Science at Ecole Polytechnique, Palaiseau, France. He is a member of the joint INRIA-Ecole Polytechnique, CEDAR team, led by Ioana Manolescu. His research focuses on scalable data processing in the face of data, workload, and hardware heterogeneity. Throughout his career, he has received funding from national, international, and industrial sources.
