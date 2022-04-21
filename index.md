@@ -18,7 +18,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] |
 |4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] |
-|5/2|Roger Waleffe, _University of Wisconsin-Madison_| |
+|5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] |
 |5/9|Joe Hellerstein, _UC Berkeley_| |
 
 # Talk Details
@@ -132,3 +132,13 @@ The rapid democratization of data has placed its access and analysis in the hand
 Eugene Wu is broadly interested in technologies that help users play with their data. His goal is for users at all technical levels to effectively and quickly make sense of their information. He is interested in solutions that ultimately improve the interface between users and data, and uses techniques borrowed from fields such as data management, systems, crowd sourcing, visualization, and HCI. Eugene Wu received his Ph.D. from MIT, B.S. from Cal, and was a postdoc in the AMPLab. 
 
 Eugene Wu has received the VLDB 2018 10-year test of time award, best-of-conference citations at ICDE and VLDB, the SIGMOD 2016 best demo award, the NSF CAREER, and the Google and Amazon faculty awards.
+
+## Talk by Roger Waleffe
+
+### Abstract
+
+In this talk, I will present Marius++, a system for resource optimized training of Graph Neural Networks (GNNs) on a single machine. To support billion-scale graphs, Marius++ utilizes pipelined mini-batch training and the entire memory hierarchy, including disk. This architecture requires Marius++ to address two main challenges. First, Marius++ optimizes GNN mini-batch preparation and processing to make it as efficient as possible on a machine with fixed resources. Second, Marius++ employs techniques to utilize disk storage during training without bottlenecking throughput or hurting model accuracy. This talk will highlight how Marius++ with one GPU can achieve the same level of model accuracy up to 8x faster than existing industrial systems when they are using up to eight GPUs. By scaling training using disk storage, Marius++ deployments on billion-scale graphs are up to 64x cheaper in monetary cost than those of the competing systems.
+
+### Bio
+
+Roger Waleffe is a third year PhD student at the University of Wisconsin-Madison working under the supervision of Prof. Theodoros Rekatsinas. His work focuses on the intersection of systems and algorithmic challenges for training large-scale ML models using the full memory hierarchy. Roger is coleading the Marius project (https://marius-project.org/) which aims to make the use of Graph Neural Networks and Graph Embeddings over billion scale graphs easier, faster, and cheaper. Roger holds a B.S. in computer science and physics from UW-Madison and is a recipient of the UW-Madison departmental graduate research fellowship and Goldwater scholarship.
