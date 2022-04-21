@@ -17,7 +17,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] |
-|4/25|Eugene Wu, _Columbia University_| |
+|4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] |
 |5/2|Roger Waleffe, _University of Wisconsin-Madison_| |
 |5/9|Joe Hellerstein, _UC Berkeley_| |
 
@@ -120,3 +120,15 @@ According to the French transparency law, a conflict of interest is any situatio
 ### Bio
 
 Angelos Christos Anadiotis is Assistant Professor of Computer Science at Ecole Polytechnique, Palaiseau, France. He is a member of the joint INRIA-Ecole Polytechnique, CEDAR team, led by Ioana Manolescu. His research focuses on scalable data processing in the face of data, workload, and hardware heterogeneity. Throughout his career, he has received funding from national, international, and industrial sources.
+
+## Talk by Eugene Wu
+
+### Abstract
+
+The rapid democratization of data has placed its access and analysis in the hands of the entire population. While the advances in rapid and large-scale data processing continue to reduce runtimes and costs, the interfaces and tools for end-users to interact with, and work with, data is still lacking.  It is still too difficult to translate a user’s data needs into the appropriate interfaces, too difficult to develop data intensive interfaces that are responsive and scalable, and too difficult for users to understand and interpret the data they see. In this talk, I will provide an overview of our lab's recent work on systems for human data interaction that go towards addressing these challenges.
+
+### Bio
+
+Eugene Wu is broadly interested in technologies that help users play with their data. His goal is for users at all technical levels to effectively and quickly make sense of their information. He is interested in solutions that ultimately improve the interface between users and data, and uses techniques borrowed from fields such as data management, systems, crowd sourcing, visualization, and HCI. Eugene Wu received his Ph.D. from MIT, B.S. from Cal, and was a postdoc in the AMPLab. 
+
+Eugene Wu has received the VLDB 2018 10-year test of time award, best-of-conference citations at ICDE and VLDB, the SIGMOD 2016 best demo award, the NSF CAREER, and the Google and Amazon faculty awards.
