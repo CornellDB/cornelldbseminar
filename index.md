@@ -16,7 +16,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\] \[[Video](https://youtu.be/l1O9EFmAXaM)\]|
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
-|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] |
+|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] \[[Video](https://youtu.be/Qwc68qj4bK8)\] |
 |4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] |
 |5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] |
 |5/9|Joe Hellerstein, _UC Berkeley_| |
