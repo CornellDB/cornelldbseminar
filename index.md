@@ -17,8 +17,8 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |4/4|(Break)| |
 |4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] \[[Video](https://youtu.be/Qwc68qj4bK8)\] |
-|4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] |
-|5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] |
+|4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] \[[Video](https://youtu.be/85AtsmN2Sm4)\] |
+|5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] \[[Video](https://youtu.be/BVDQauRb4gQ)\]|
 |5/9|Joe Hellerstein, _UC Berkeley_| A Programmable Cloud: CALM Foundations and Open Challenges \[[Details](#talk-by-joe-hellerstein)\] |
 
 # Talk Details
