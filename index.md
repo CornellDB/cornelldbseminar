@@ -19,7 +19,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] \[[Video](https://youtu.be/Qwc68qj4bK8)\] |
 |4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] |
 |5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] |
-|5/9|Joe Hellerstein, _UC Berkeley_| |
+|5/9|Joe Hellerstein, _UC Berkeley_| A Programmable Cloud: CALM Foundations and Open Challenges \[[Details](#talk-by-joe-hellerstein)\] |
 
 # Talk Details
 
@@ -142,3 +142,17 @@ In this talk, I will present Marius++, a system for resource optimized training 
 ### Bio
 
 Roger Waleffe is a third year PhD student at the University of Wisconsin-Madison working under the supervision of Prof. Theodoros Rekatsinas. His work focuses on the intersection of systems and algorithmic challenges for training large-scale ML models using the full memory hierarchy. Roger is coleading the Marius project (https://marius-project.org/) which aims to make the use of Graph Neural Networks and Graph Embeddings over billion scale graphs easier, faster, and cheaper. Roger holds a B.S. in computer science and physics from UW-Madison and is a recipient of the UW-Madison departmental graduate research fellowship and Goldwater scholarship.
+
+## Talk by Joe Hellerstein
+
+### Abstract
+
+The public cloud emerged a decade ago, yet distributed systems are still programmed using models from sequential computing. All the traditional challenges of distributed programming and data are still present in the cloud, only they are now faced by the general population of software developers. Added to these challenges are new desires for "serverless" computing, including consumption-based pricing and autoscaling.
+ 
+This talk will highlight principles for cloud programming that I have explored with colleagues over the past decade, including the CALM Theorem and languages like Dedalus and Bloom that encourage monotonic coordination-free consistency via logic and lattices. The Anna "any-scale" KVS will be presented as a petri dish for the potential of these ideas and many remaining challenges. 
+
+Time permitting, I will conclude by overviewing new work in the Hydro project, which is aimed at bringing research ideas to programmers in an practical, evolutionary fashion. Key to our approach is a separation of distributed programs into a PACT of four facets: Program semantics, Availablity, Consistency and Trust. We propose to migrate developers gradually to PACT programming by lifting familiar code into our more declarative level of abstraction. This agenda raises challenges across multiple areas including language design, query optimization, transactions, distributed consistency, compilers and program synthesis.
+
+### Bio
+
+Joe Hellerstein is the Jim Gray Professor of Computer Science at the University of California, Berkeley, and currently on leave as a Faculty Fellow at Sutter Hill Ventures. His research focuses on data-centric systems and the way they drive computing. In addition to his academic work, Hellerstein has been involved in a number of startup companies including Trifacta, which brought academic research on data wrangling to market.
