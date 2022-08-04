@@ -1,1 +1,1 @@
-[Test](/spring22.html)
+[Test](/cornelldbseminar/spring22.html)
