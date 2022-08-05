@@ -5,3 +5,5 @@ The Cornell Database Seminar covers recent research in the database area. The se
 Talk details and recordings from Spring 2022 can be found [here](/cornelldbseminar/spring22.html).
 
 # Schedule
+
+Coming soon!
