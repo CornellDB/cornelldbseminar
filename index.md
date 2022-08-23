@@ -8,7 +8,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 
 |Date|Speaker|Talk|
 |---|----- | ------- |
-|8/23|||
+|8/23|Immanuel Trummer|Intro|
 |8/30|||
 |9/6|||
 |9/13|||
