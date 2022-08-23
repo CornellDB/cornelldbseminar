@@ -6,4 +6,20 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 
 # Schedule
 
-Coming soon!
+|Date|Speaker|Talk|
+|---|----- | ------- |
+|8/23|||
+|8/30|||
+|9/6|||
+|9/13|||
+|9/20|||
+|9/27|Aecio Santos, _New York University_|TBD|
+|10/4|Hung Ngo, _RelationalAI_|Query Optimization for Worst-case Optimal Joins|
+|10/11|(Break)||
+|10/18|Ippokratis Pandis, _Amazon_|Reinventing Amazon Redshift|
+|10/25|Raul Castro Fernandez, _University of Chicago_|Data pricing|
+|11/1|||
+|11/8|||
+|11/15|Arnab Nandi, _Ohio State University_|TBD|
+|11/22|||
+|11/29|||
