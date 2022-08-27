@@ -18,7 +18,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |10/11|(Break)||
 |10/18|Ippokratis Pandis, _Amazon_|Reinventing Amazon Redshift|
 |10/25|Raul Castro Fernandez, _University of Chicago_|Data Pricing|
-|11/1||Subarna Chatterjee, _Harvard University_|Self-Designing Key Value Stores|
+|11/1|Subarna Chatterjee, _Harvard University_|Self-Designing Key Value Stores|
 |11/8|||
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
 |11/22|||
