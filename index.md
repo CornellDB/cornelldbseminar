@@ -11,8 +11,8 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |8/23|Immanuel Trummer, _Cornell University_|Intro|
 |8/30|||
 |9/6|||
-|9/13|||
-|9/20|||
+|9/13|Immanuel Trummer, _Cornell University_||
+|9/20|Immanuel Trummer, _Cornell University_||
 |9/27|Aecio Santos, _New York University_|TBD|
 |10/4|Hung Ngo, _RelationalAI_|Query Optimization for Worst-case Optimal Joins|
 |10/11|(Break)||
