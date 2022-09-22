@@ -13,7 +13,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |9/6|||
 |9/13|Immanuel Trummer, _Cornell University_||
 |9/20|Immanuel Trummer, _Cornell University_||
-|9/27|Aecio Santos, _New York University_|Sketching Methods for Efficient Correlated Dataset Search [Details](#talk-by-aecio-santos)|
+|9/27|Aecio Santos, _New York University_|Sketching Methods for Efficient Correlated Dataset Search \[[Details](#talk-by-aecio-santos)\]|
 |10/4|Hung Ngo, _RelationalAI_|Query Optimization for Worst-case Optimal Joins|
 |10/11|(Break)||
 |10/18|Ippokratis Pandis, _Amazon_|Reinventing Amazon Redshift|
