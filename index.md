@@ -9,8 +9,8 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |Date|Speaker|Talk|
 |---|----- | ------- |
 |8/23|Immanuel Trummer, _Cornell University_|Intro|
-|8/30|||
-|9/6|||
+|8/30|(Internal)||
+|9/6|(Internal)||
 |9/13|Immanuel Trummer, _Cornell University_||
 |9/20|Immanuel Trummer, _Cornell University_||
 |9/27|Aecio Santos, _New York University_|Sketching Methods for Efficient Correlated Dataset Search \[[Details](#talk-by-aecio-santos)\]|
