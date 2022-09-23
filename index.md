@@ -21,8 +21,8 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |11/1|Subarna Chatterjee, _Harvard University_|Self-Designing Key Value Stores|
 |11/8|Arun Kumar, _University of California San Diego_|TBD|
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
-|11/22|_MongoDB_||
-|11/29|Matthias Boehm, _TU Berlin_||
+|11/22|_MongoDB_|TBD|
+|11/29|Matthias Boehm, _TU Berlin_|TBD|
 
 # Talk Details
 
