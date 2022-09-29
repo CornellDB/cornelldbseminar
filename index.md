@@ -22,7 +22,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |11/8|Arun Kumar, _University of California San Diego_|TBD|
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
 |11/22|_MongoDB_|TBD|
-|11/29|Matthias Boehm, _TU Berlin_|TBD|
+|11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines|
 
 # Talk Details
 
