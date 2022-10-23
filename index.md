@@ -17,7 +17,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |10/4|Hung Ngo, _RelationalAI_|Query Optimization for Worst-case Optimal Joins|
 |10/11|(Break)||
 |10/18|Ippokratis Pandis, _Amazon_|Reinventing Cloud Analytics with Machine Learning \[[Details](#talk-by-ippokratis-pandis)\]|
-|10/25|Raul Castro Fernandez, _University of Chicago_|Data Pricing|
+|10/25|Raul Castro Fernandez, _University of Chicago_|The Value of Data and the Design of Data Markets \[[Details](#talk-by-raul-castro-fernandez)\]|
 |11/1|Subarna Chatterjee, _Harvard University_|Self-Designing Key Value Stores|
 |11/8|Arun Kumar, _University of California San Diego_|TBD|
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
@@ -45,3 +45,13 @@ Amazon Redshift is Amazon's Amazon's petabyte-scale data warehouse service. Over
 ### Bio
 
 Ippokratis Pandis is a VP/Distinguished Engineer at Amazon Web Services. He spends most of his time on AWS's Analytics services, especially Amazon Redshift. Redshift is Amazon's fully managed, petabyte-scale data warehouse service. Previously, Ippokratis has held positions as software engineer at Cloudera where he worked on the Impala SQL-on-Hadoop query engine, and as member of the research staff at the IBM Almaden Research Center, where he worked on IBM DB2 BLU. Ippokratis received his PhD from the ECE department at Carnegie Mellon University. He is the recipient of a Test-of-Time award at EDBT 2019. He is the General Chair of SIGMOD 2023 and the president of HPTS.
+
+## Talk by Raul Castro Fernandez
+
+### Abstract
+
+While data and artificial intelligence are driving many changes to our economic, social, political, financial, and legal systems, we know surprisingly little about their foundations and governing dynamics. In this talk, I will argue that the value of data arises from data markets, environments where agents exchange data. I will illustrate the importance of studying data markets and show several examples of where today’s data markets fall short and cause negative impacts on welfare and privacy. Then, I will suggest that data markets can be deliberately designed to avoid those pitfalls and present a proposal to advance the field that consists of two steps: data market design and data market platform implementation. I will illustrate the above points with examples of existing and future data markets. Finally, I will propose there exists a connection between the study of the value and economics of data and the discipline of data science. I will convey the importance of studying the data economy and the many tools and approaches the data management community has to contribute to this area.
+
+### Bio
+
+I am an assistant professor at the University of Chicago. My interests are in data: data science and data management. My group studies data markets and the value and economics of data. We work on designing well-functioning data markets and implementing data market platforms where those designs can be deployed. We also work on more traditional data management problems such as data discovery, integration, and processing. Before UChicago, I did a postdoc at MIT and completed my Ph.D. at Imperial College London.
