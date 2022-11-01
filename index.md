@@ -18,7 +18,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |10/11|(Break)||
 |10/18|Ippokratis Pandis, _Amazon_|Reinventing Cloud Analytics with Machine Learning \[[Details](#talk-by-ippokratis-pandis)\]|
 |10/25|Raul Castro Fernandez, _University of Chicago_|The Value of Data and the Design of Data Markets \[[Details](#talk-by-raul-castro-fernandez)\]|
-|11/1|Subarna Chatterjee, _Harvard University_|Self-Designing Key Value Stores|
+|11/1|Subarna Chatterjee, _Harvard University_|Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine \[[Details](#talk-by-subarna-chatterjee)\]|
 |11/8|Arun Kumar, _University of California San Diego_|TBD|
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
 |11/22|_MongoDB_|TBD|
@@ -55,3 +55,13 @@ While data and artificial intelligence are driving many changes to our economic,
 ### Bio
 
 I am an assistant professor at the University of Chicago. My interests are in data: data science and data management. My group studies data markets and the value and economics of data. We work on designing well-functioning data markets and implementing data market platforms where those designs can be deployed. We also work on more traditional data management problems such as data discovery, integration, and processing. Before UChicago, I did a postdoc at MIT and completed my Ph.D. at Imperial College London.
+
+## Talk by Subarna Chatterjee
+
+### Abstract
+
+We present a self-designing key-value storage engine, Cosine, which can take the shape of the close to “perfect” engine architecture given an input workload, a cloud budget, a target performance, and required cloud SLAs. By identifying and formalizing the first principles of storage engine layouts and core key-value algorithms, Cosine constructs a massive design space comprising of sextillion (10^36) possible storage engine designs over a diverse space of hardware and cloud pricing policies for three cloud providers – AWS, GCP, and Azure. Cosine spans across diverse designs such as Log-Structured Merge (LSM)-trees, B-trees, Log-Structured Hash (LSH)-tables, in-memory accelerators for filters and indexes as well as trillions of hybrid designs that do not appear in the literature or industry but emerge as valid combinations of the above. Cosine includes a unified distribution-aware I/O model and a learned concurrency-aware CPU model that can calculate the performance and cloud cost of running a workload on any possible design and hardware. Cosine can then search through that space in interactive times to find the best design and materializes the actual code of the resulting storage engine design using a templated Rust implementation. We demonstrate that on average Cosine outperforms state-of-the-art storage engines such as LSM-based RocksDB, BTree-based WiredTiger, and LSH-based FASTER by 23x, 25x, and 20x, respectively, for diverse workloads, data sizes, and cloud budgets across all YCSB core workloads and many variants.
+
+### Bio
+
+I am a post-doctoral researcher working with Prof. Stratos Idreos at Data Systems laboratory at Harvard University since January 2019. Before that I was a post-doctoral researcher (2017-2018) with the Myriads team at Inria, Rennes in France. I did my Ph.D. from Indian Institute of Technology Kharagpur, India from 2013-2017. Broadly speaking, I work on data science with my research focus centering around different sub-directions at different times in my career.
