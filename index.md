@@ -19,7 +19,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |10/18|Ippokratis Pandis, _Amazon_|Reinventing Cloud Analytics with Machine Learning \[[Details](#talk-by-ippokratis-pandis)\]|
 |10/25|Raul Castro Fernandez, _University of Chicago_|The Value of Data and the Design of Data Markets \[[Details](#talk-by-raul-castro-fernandez)\]|
 |11/1|Subarna Chatterjee, _Harvard University_|Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine \[[Details](#talk-by-subarna-chatterjee)\]|
-|11/8|Arun Kumar, _University of California San Diego_|TBD|
+|11/8|Arun Kumar, _University of California San Diego_|New DBification of ML/AI \[[Details](#talk-by-arun-kumar)\]|
 |11/15|Arnab Nandi, _Ohio State University_|TBD|
 |11/22|_MongoDB_|TBD|
 |11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines|
@@ -65,3 +65,15 @@ We present a self-designing key-value storage engine, Cosine, which can take the
 ### Bio
 
 I am a post-doctoral researcher working with Prof. Stratos Idreos at Data Systems laboratory at Harvard University since January 2019. Before that I was a post-doctoral researcher (2017-2018) with the Myriads team at Inria, Rennes in France. I did my Ph.D. from Indian Institute of Technology Kharagpur, India from 2013-2017. Broadly speaking, I work on data science with my research focus centering around different sub-directions at different times in my career.
+
+## Talk by Arun Kumar
+
+### Abstract
+
+The recent boom in ML/AI applications has brought into sharp focus the pressing need for tackling the concerns of scalability, usability, and manageability across the entire lifecycle of ML/AI applications. The ML/AI world has long studied the concerns of accuracy, automation, etc. from theoretical and algorithmic vantage points. But to truly democratize ML/AI, the vantage point of building and deploying practical systems is equally critical.
+
+In this talk, I will make the case that it is high time to bridge the gap between the ML/AI world and a world that exemplifies successful democratization of data technology: databases. I will show how new bridges rooted in the principles, techniques, and tools of the database world are helping tackle the above pressing concerns and in turn, posing new research questions to the world of ML/AI. As case studies of such bridges, I will describe two lines of work from my group: query optimization for scalable deep learning systems and benchmarking data preparation in AutoML platforms. I will conclude with my thoughts on community mechanisms to foster more such bridges between research worlds and between research and practice.
+
+### Bio
+
+Arun Kumar is an Associate Professor in Computer Science and Engineering and the Halicioglu Data Science Institute at the University of California, San Diego. His primary research interests are in data management and systems for ML/AI-based data analytics. Systems and ideas from his work have been released as part of the Apache MADlib open-source library and shipped as part of products from or used internally by many database, Web, and cloud companies. He is a recipient of three SIGMOD research paper awards, five distinguished reviewer/metareviewer awards from SIGMOD/VLDB, the IEEE TCDE Rising Star Award, and an NSF CAREER Award.
