@@ -20,7 +20,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |10/25|Raul Castro Fernandez, _University of Chicago_|The Value of Data and the Design of Data Markets \[[Details](#talk-by-raul-castro-fernandez)\]|
 |11/1|Subarna Chatterjee, _Harvard University_|Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine \[[Details](#talk-by-subarna-chatterjee)\]|
 |11/8|Arun Kumar, _University of California San Diego_|New DBification of ML/AI \[[Details](#talk-by-arun-kumar)\]|
-|11/15|Arnab Nandi, _Ohio State University_|TBD|
+|11/15|Arnab Nandi, _Ohio State University_|Querying the Real World: Data Exploration in Augmented Reality \[[Details](#talk-by-arnab-nandi)\]|
 |11/22|_MongoDB_|TBD|
 |11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines|
 
@@ -77,3 +77,20 @@ In this talk, I will make the case that it is high time to bridge the gap betwee
 ### Bio
 
 Arun Kumar is an Associate Professor in Computer Science and Engineering and the Halicioglu Data Science Institute at the University of California, San Diego. His primary research interests are in data management and systems for ML/AI-based data analytics. Systems and ideas from his work have been released as part of the Apache MADlib open-source library and shipped as part of products from or used internally by many database, Web, and cloud companies. He is a recipient of three SIGMOD research paper awards, five distinguished reviewer/metareviewer awards from SIGMOD/VLDB, the IEEE TCDE Rising Star Award, and an NSF CAREER Award.
+
+
+## Talk by Arnab Nandi
+
+### Abstract
+
+There is a vast amount of structured data present in real-world objects and scenarios such as movie posters, airport displays, and grocery aisles. Given recent advances in computer vision and cloud-based data infrastructure, we are faced with a new opportunity to enable interactive exploration of real-world data using augmented reality.
+
+In this talk, we will first look at ARQuery, a query platform that uses augmented reality to enable ad-hoc querying over the real world. We provide an interaction and visualization grammar that is designed to interactively explore and augment real-world data. Our studies show that ARQuery provides a fluid experience that is significantly faster and easier-to-use than traditional approaches.
+
+Second, we discuss Quill, a domain-specific language that enables developers to easily generate data-intensive augmented reality applications. We demonstrate how Quill can expedite and democratize an otherwise complex development process. Beyond requiring less programming effort, we show that Quill-generated applications can automatically include optimizations, allowing them to be more performant than applications that are not built with Quill.
+
+ ### Bio
+ 
+Arnab Nandi is an Associate Professor of Computer Science & Engineering at The Ohio State University.
+
+Arnab's work focuses on bridging data infrastructure with human interaction, spanning areas of database systems, human factors, and next-generation interfaces. Arnab is a recipient of the US National Science Foundation's CAREER Award, IEEE's TCDE Early Career Award for his contributions towards user-focused data interaction, The Ohio State University's Alumni Award for Distinguished Teaching, and the University's Early Career Innovator of the Year Award. Over the years, Arnab has served as Program Commitee member and Associate Editor for several database systems journals and conferences including SIGMOD, VLDB, ICDE, and HILDA. Most recently, Arnab served as Vice President of Data Science at Azuga Inc. (a Bridgestone company) after the acquisition of his connected vehicles analytics startup, Mobikit.
