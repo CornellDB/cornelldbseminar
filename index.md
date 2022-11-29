@@ -22,7 +22,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |11/8|Arun Kumar, _University of California San Diego_|New DBification of ML/AI \[[Details](#talk-by-arun-kumar)\]|
 |11/15|Arnab Nandi, _Ohio State University_|Querying the Real World: Data Exploration in Augmented Reality \[[Details](#talk-by-arnab-nandi)\]|
 |11/22|_MongoDB_|TBD|
-|11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines|
+|11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines \[[Details](#talk-by-matthias-boehm)\]|
 
 # Talk Details
 
@@ -94,3 +94,14 @@ Second, we discuss Quill, a domain-specific language that enables developers to 
 Arnab Nandi is an Associate Professor of Computer Science & Engineering at The Ohio State University.
 
 Arnab's work focuses on bridging data infrastructure with human interaction, spanning areas of database systems, human factors, and next-generation interfaces. Arnab is a recipient of the US National Science Foundation's CAREER Award, IEEE's TCDE Early Career Award for his contributions towards user-focused data interaction, The Ohio State University's Alumni Award for Distinguished Teaching, and the University's Early Career Innovator of the Year Award. Over the years, Arnab has served as Program Commitee member and Associate Editor for several database systems journals and conferences including SIGMOD, VLDB, ICDE, and HILDA. Most recently, Arnab served as Vice President of Data Science at Azuga Inc. (a Bridgestone company) after the acquisition of his connected vehicles analytics startup, Mobikit.
+
+
+## Talk by Matthias Boehm
+
+### Abstract
+
+The trend towards data-centric AI leads to increasingly complex, composite machine learning (ML) pipelines with outer loops for data integration and cleaning, data programming and augmentation, model and feature selection, hyper-parameter tuning and cross validation, as well as data validation and ML model debugging. Interestingly, state-of-the-art techniques for data integration, cleaning, and augmentation as well as model debugging are often based on machine learning themselves, which motivates their integration into ML systems. In this talk, we make a case for optimizing compiler infrastructure in Apache SystemDS and DAPHNE as two sibling open-source ML systems. We discuss recent feature highlights and how they all fit together. The covered topics range from linear-algebra-based data cleaning pipeline enumeration and slice finding; over lineage-based reuse and workload-aware redundancy exploitation; to federated learning, vectorized execution on heterogeneous HW devices, and extensibility.
+
+### Bio
+
+Matthias Boehm is a full professor for large-scale data engineering at Technische Universität Berlin and the BIFOLD research center. His cross-organizational research group focuses on high-level, data science-centric abstractions as well as systems and tools to execute these tasks in an efficient and scalable manner. From 2018 through 2022, Matthias was a BMK-endowed professor for data management at Graz University of Technology, Austria, and a research area manager for data management at the co-located Know-Center GmbH. Prior to joining TU Graz in 2018, he was a research staff member at IBM Research - Almaden, CA, USA, with a major focus on compilation and runtime techniques for declarative, large-scale machine learning in Apache SystemML. Matthias received his Ph.D. from Dresden University of Technology, Germany in 2011 with a dissertation on cost-based optimization of integration flows. His previous research also includes systems support for time series forecasting as well as in-memory indexing and query processing. 
