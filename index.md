@@ -21,7 +21,7 @@ Talk details and recordings from Spring 2022 can be found [here](/cornelldbsemin
 |11/1|Subarna Chatterjee, _Harvard University_|Cosine: A Cloud-Cost Optimized Self-Designing Key-Value Storage Engine \[[Details](#talk-by-subarna-chatterjee)\]|
 |11/8|Arun Kumar, _University of California San Diego_|New DBification of ML/AI \[[Details](#talk-by-arun-kumar)\]|
 |11/15|Arnab Nandi, _Ohio State University_|Querying the Real World: Data Exploration in Augmented Reality \[[Details](#talk-by-arnab-nandi)\]|
-|11/22|_MongoDB_|TBD|
+|11/22|(Internal)||
 |11/29|Matthias Boehm, _TU Berlin_|Optimizing Compiler Infrastructure for Data-centric ML Pipelines \[[Details](#talk-by-matthias-boehm)\]|
 
 # Talk Details
