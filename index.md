@@ -7,19 +7,19 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |Date|Speaker|Talk|
 |---|----- | ------- |
 |9/5|Nikolaos Tziavelis, _Northeastern University_ | Efficient Ranked Access over Joins \[[Details](#talk-by-nikolaos-tziaveliss)\]
-|2/14|Rolando Garcia Sanchez, _UC Berkeley_ | FLOR: Managing the Infinite Virtual Metadata of Model Training \[[Details](#talk-by-rolando-garcia-sanchez)\] \[[Video](https://youtu.be/gAhqAHnJme0)\]|
-|2/21| Immanuel Trummer, _Cornell University_| Towards Tuning Tools that "Read" the Manual \[[Details](#talk-by-immanuel-trummer)\] \[[Video](https://youtu.be/rICyXhjyqp8)\]|
-|2/28| (Break) | |
-|3/7|Carsten Binnig, _TU Darmstadt_ | Learned DBMS Components 2.0: From Workload-Driven to Zero-Shot Learning \[[Details](#talk-by-carsten-binnig)\] \[[Video](https://youtu.be/7Ws_Ms4wVcc)\]|
-|3/14|Ibrahim Sabek, _MIT_ | LSched: A Workload-Aware Learned Query Scheduler for Analytical Database Systems \[[Details](#talk-by-ibrahim-sabek)\] \[[Video](https://youtu.be/uiMdErKz_rk)\]|
-|3/21|Volker Markl, _TU Berlin_ | Mosaics of Big Data: Database Systems and Information Management – Trends and a Vision \[[Details](#talk-by-volker-markl)\] \[[Video](https://youtu.be/Y0qq1Di-Qvc)\]|
-|3/28|Davide Mottin, _Aarhus University_ | Cleaning Knowledge Graphs with Little Effort \[[Details](#talk-by-davide-mottin)\] \[[Video](https://youtu.be/l1O9EFmAXaM)\]|
-|4/4|(Break)| |
-|4/11|Laurel Orr, _Stanford University_ | Incremental Entity Embedding Maintenance in Foundation Model Ecosystems \[[Details](#talk-by-laurel-orr)\] \[[Video](https://youtu.be/IgKz5Rnjnvk)\] |
-|4/18|Angelos-Christos Anadiotis, _Ecole Polytechnique_| Pursue of Conflicts of Interest Across Heterogeneous Data \[[Details](#talk-by-angelos-christos-anadiotis)\] \[[Video](https://youtu.be/Qwc68qj4bK8)\] |
-|4/25|Eugene Wu, _Columbia University_| Systems for Human Data Interaction \[[Details](#talk-by-eugene-wu)\] \[[Video](https://youtu.be/85AtsmN2Sm4)\] |
-|5/2|Roger Waleffe, _University of Wisconsin-Madison_| Training Graph Neural Networks over Billion-Scale Graphs on a Single Machine \[[Details](#talk-by-roger-waleffe)\] \[[Video](https://youtu.be/BVDQauRb4gQ)\]|
-|5/9|Joe Hellerstein, _UC Berkeley_| A Programmable Cloud: CALM Foundations and Open Challenges \[[Details](#talk-by-joe-hellerstein)\] \[[Video](https://youtu.be/HqyaFLcT3HQ)\]|
+|9/12|
+|9/19|
+|9/26|Lin Ma, _University of Michigan_ | 
+|10/03|Ana Klimovic , _ETH_|
+|10/10| No talk: Fall break
+|10/17|Michael Jungmair
+|10/24|
+|10/31|
+|11/7|Lei Cao
+|11/14|
+|11/21|Alvin Cheung
+|11/28|
+
 
 # Talk Details
 
