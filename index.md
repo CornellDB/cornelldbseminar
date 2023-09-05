@@ -10,14 +10,14 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |9/12|
 |9/19|
 |9/26|Lin Ma, _University of Michigan_ | 
-|10/03|Ana Klimovic , _ETH_|
+|10/03|Ana Klimovic, _ETH_ |
 |10/10| No talk: Fall break
-|10/17|Michael Jungmair
+|10/17|Michael Jungmair, _TUM_ |
 |10/24|
 |10/31|
-|11/7|Lei Cao
+|11/7|Lei Cao, _University of Arizona_ |
 |11/14|
-|11/21|Alvin Cheung
+|11/21|Alvin Cheung, _UC Berkeley_ |
 |11/28|
 
 
