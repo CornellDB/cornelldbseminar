@@ -6,18 +6,18 @@ The Cornell Database Seminar covers recent research in the database area. The se
 
 |Date|Speaker|Talk|
 |---|----- | ------- |
-|9/5|Nikolaos Tziavelis, _Northeastern University_ | Efficient Ranked Access over Joins \[[Details](#talk-by-nikolaos-tziaveliss)\]
+|9/5|[Nikolaos Tziavelis](https://ntzia.github.io/), _Northeastern University_ | Efficient Ranked Access over Joins \[[Details](#talk-by-nikolaos-tziaveliss)\]
 |9/12|
 |9/19|
-|9/26|Lin Ma, _University of Michigan_ | 
-|10/03|Ana Klimovic, _ETH_ |
+|9/26|[Lin Ma](https://linmagit.github.io/), _University of Michigan_ | 
+|10/03|[Ana Klimovic](https://anakli.inf.ethz.ch/), _ETH_ |
 |10/10| No talk: Fall break
-|10/17|Michael Jungmair, _TUM_ |
+|10/17|[Michael Jungmair](https://db.in.tum.de/~jungmair/), _TUM_ |
 |10/24|
 |10/31|
-|11/7|Lei Cao, _University of Arizona_ |
+|11/7|[Lei Cao](https://www2.cs.arizona.edu/~caolei/), _University of Arizona_ |
 |11/14|
-|11/21|Alvin Cheung, _UC Berkeley_ |
+|11/21|[Alvin Cheung](https://people.eecs.berkeley.edu/~akcheung/), _UC Berkeley_ |
 |11/28|
 
 
