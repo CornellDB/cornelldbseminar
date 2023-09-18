@@ -8,7 +8,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |---|----- | ------- |
 |9/5|[Nikolaos Tziavelis](https://ntzia.github.io/), _Northeastern University_ | Efficient Ranked Access over Joins \[[Details](#talk-by-nikolaos-tziaveliss)\]
 |9/12|[Immanuel Trummer](www.itrummer.org), _Cornell University_ | Approximate Query Processing|
-|9/19|[Neha Makhija] (https://nehamakhija.github.io/), _Northeastern University_  | An Unified Approach For Reverse Data Management 
+|9/19|[Neha Makhija](https://nehamakhija.github.io/), _Northeastern University_  | An Unified Approach For Reverse Data Management 
 |9/26|[Lin Ma](https://linmagit.github.io/), _University of Michigan_ | 
 |10/03|[Ana Klimovic](https://anakli.inf.ethz.ch/), _ETH_ |
 |10/10| No talk: Fall break
