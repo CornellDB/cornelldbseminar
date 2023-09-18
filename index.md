@@ -8,7 +8,7 @@ The Cornell Database Seminar covers recent research in the database area. The se
 |---|----- | ------- |
 |9/5|[Nikolaos Tziavelis](https://ntzia.github.io/), _Northeastern University_ | Efficient Ranked Access over Joins \[[Details](#talk-by-nikolaos-tziaveliss)\]
 |9/12|[Immanuel Trummer](www.itrummer.org), _Cornell University_ | Approximate Query Processing|
-|9/19|
+|9/19|[Neha Makhija] (https://nehamakhija.github.io/), _Northeastern University_  | An Unified Approach For Reverse Data Management 
 |9/26|[Lin Ma](https://linmagit.github.io/), _University of Michigan_ | 
 |10/03|[Ana Klimovic](https://anakli.inf.ethz.ch/), _ETH_ |
 |10/10| No talk: Fall break
@@ -35,3 +35,17 @@ Project Website: https://northeastern-datalab.github.io/anyk/
 Nikolaos (Nikos) Tziavelis is a 5th year PhD candidate at Northeastern University, advised by Mirek Riedewald and Wolfgang Gatterbauer, and before that, he received a Diploma in Electrical and Computer Engineering from the National Technical University of Athens. His research interests lie in novel algorithms for query processing, efficient data representations, and distributed computing. His work has been awarded with  a Google PhD fellowship, a VLDB 2023 PhD Workshop Best Paper Award, and a PODS 2021 “Best of” recognition.
 https://ntzia.github.io/
 
+## Talk by Neha Makhija
+
+Title: An Unified Approach For Reverse Data Management
+
+### Abstract: 
+Reverse data management generalizes problems that perform actions on the input data, on behalf of desired outcomes in the output data - including problems such as view maintenance, deletion propagation, and interventions for fairness. A long-open question is determining those conjunctive queries (CQs) for which these problems can be solved in guaranteed PTIME. We focus on the problem of resilience, a key algorithmic problem that underlies the various forms of reverse data management. It asks "What is the minimal number of tuples to delete from a database in order to remove all answers from a query?"
+
+We discuss a novel approach for solving reverse data management problems: instead of creating dedicated algorithms for easy (PTIME) and hard (NP-complete) cases, we suggest using a unified algorithm that is guaranteed to terminate in PTIME for all easy cases. Our algorithm is also unified in that it can solve both previously studied restrictions (e.g., self-join-free CQs under set semantics that allow a PTIME solution) and new cases (e.g., all CQs under set or bag semantics). Our approach opens up the door to new variants and new fine-grained analysis: 1) It also works under bag semantics and we give the first dichotomy result for bags semantics in the problem space. 2) We give a more fine-grained analysis of the complexity of causal responsibility. 3) We recover easy instances for generally hard queries, such as instances with read-once provenance and instances that become easy because of Functional Dependencies in the data. 4) We solve an open conjecture from PODS 2020 regarding an unified hardness criterion, and use it to automatically find hardness proofs for queries whose complexity were previously unknown. 5) Experiments confirm that our results indeed predict the asymptotic running times, and that our universal ILP encoding is at times even faster to solve for the PTIME cases than a prior proposed dedicated flow algorithm.
+
+
+Related Paper: 
+A Unified Approach for Resilience and Causal Responsibility with Integer Linear Programming (ILP) and LP Relaxations. N Makhija, W Gatterbauer - arXiv preprint arXiv:2212.08898, 2022 (https://arxiv.org/abs/2212.08898) [To appear SIGMOD 2024]
+
+Project Page: https://northeastern-datalab.github.io/unified-reverse-data-management/ 
